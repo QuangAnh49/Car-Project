@@ -6,7 +6,7 @@ import car from '../assets/image/car.png';
 
 export const Hero = () => {
   const handleScroll = () => {};
-  const loaderProp = ({ src }) => {
+  const loaderProp = ({ src }: any) => {
     return src;
   };
   return (
