@@ -1,7 +1,5 @@
 import { CarProps, FilterProps } from '@/types';
 
-const axios = require('axios');
-
 // const options = {
 //   method: 'GET',
 //   url: 'https://cars-by-api-ninjas.p.rapidapi.com/v1/cars',
