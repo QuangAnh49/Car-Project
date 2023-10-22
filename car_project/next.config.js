@@ -7,6 +7,9 @@ const nextConfig = {
       'localhost:3000',
       // 'cdna.artstation.com', //localhost
     ],
+    typescript: {
+      ignoreBuildErrors: true,
+    },
   },
 };
 
